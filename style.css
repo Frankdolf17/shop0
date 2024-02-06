@@ -1,0 +1,57 @@
+html {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  color: black;
+}
+
+a1 {
+  text-decoration: underline;
+}
+
+a1:hover {
+  color: red;
+  transition: 250ms ease;
+}
+
+a2 {
+  text-decoration: underline;
+}
+
+a2:hover {
+  color: green;
+  transition: 250ms ease;
+}
+
+#bgclr {
+  background-color: green;
+}
+
+.hidden {
+  display: none;
+}
+body {
+  height: 100%;
+}
+
+html {
+  height: 100%;
+}
+
+#bgclr {
+  background-color: green;
+}
+
+.hidden { 
+display: none;
+} 
+
+#overlay {
+  background-color: #eb506f;
+  border-radius: 10 px;
+  padding: 10 px;
+  margin: 10 px;
+}
